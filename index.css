@@ -1,0 +1,12 @@
+body {
+  width: 100vw;
+  height: 100vh;
+}
+
+div {
+  width: 600px;
+  background-color: silver;
+  border: 2px solid black;
+  padding: 25px;
+  margin: 10px;
+}
